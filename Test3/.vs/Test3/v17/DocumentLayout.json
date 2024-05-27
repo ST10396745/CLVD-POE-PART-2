@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\William Stainton\\source\\repos\\Test3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\views\\orders\\clientorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\views\\orders\\clientorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\views\\orders\\confirmorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\views\\orders\\confirmorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\views\\products\\clientview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\views\\products\\clientview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\views\\products\\adminview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\views\\products\\adminview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\data\\migrations\\20240525134444_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\data\\migrations\\20240525134444_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|c:\\users\\william stainton\\source\\repos\\test3\\test3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553A94E1-9F90-4A44-BC37-A8FF0C85E4F9}|Test3\\Test3.csproj|solutionrelative:test3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Orders\\ClientOrder.cshtml",
+              "RelativeDocumentMoniker": "Test3\\Views\\Orders\\ClientOrder.cshtml",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Orders\\ClientOrder.cshtml",
+              "RelativeToolTip": "Test3\\Views\\Orders\\ClientOrder.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:55:20.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Test3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:40:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "Test3\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "Test3\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:05:30.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfirmOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Orders\\ConfirmOrder.cshtml",
+              "RelativeDocumentMoniker": "Test3\\Views\\Orders\\ConfirmOrder.cshtml",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Orders\\ConfirmOrder.cshtml",
+              "RelativeToolTip": "Test3\\Views\\Orders\\ConfirmOrder.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:48:23.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Test3\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Test3\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:43:19.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Test3\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Test3\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAswDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:46:07.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminView.cshtml",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Products\\AdminView.cshtml",
+              "RelativeDocumentMoniker": "Test3\\Views\\Products\\AdminView.cshtml",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Products\\AdminView.cshtml",
+              "RelativeToolTip": "Test3\\Views\\Products\\AdminView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T14:27:49.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Test3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Test3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T14:23:05.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Program.cs",
+              "RelativeDocumentMoniker": "Test3\\Program.cs",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Program.cs",
+              "RelativeToolTip": "Test3\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:38:20.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240525134444_admin.cs",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Data\\Migrations\\20240525134444_admin.cs",
+              "RelativeDocumentMoniker": "Test3\\Data\\Migrations\\20240525134444_admin.cs",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Data\\Migrations\\20240525134444_admin.cs",
+              "RelativeToolTip": "Test3\\Data\\Migrations\\20240525134444_admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:44:45.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\RoleInitializer.cs",
+              "RelativeDocumentMoniker": "Test3\\RoleInitializer.cs",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\RoleInitializer.cs",
+              "RelativeToolTip": "Test3\\RoleInitializer.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:39:19.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientView.cshtml",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Products\\ClientView.cshtml",
+              "RelativeDocumentMoniker": "Test3\\Views\\Products\\ClientView.cshtml",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Views\\Products\\ClientView.cshtml",
+              "RelativeToolTip": "Test3\\Views\\Products\\ClientView.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T13:29:01.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Test3\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Test3\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:24:14.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\appsettings.json",
+              "RelativeDocumentMoniker": "Test3\\appsettings.json",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\appsettings.json",
+              "RelativeToolTip": "Test3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T13:11:24.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Models\\OrderItems.cs",
+              "RelativeDocumentMoniker": "Test3\\Models\\OrderItems.cs",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Models\\OrderItems.cs",
+              "RelativeToolTip": "Test3\\Models\\OrderItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:08:06.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Test3\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Models\\Order.cs",
+              "RelativeToolTip": "Test3\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:01:03.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Test3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\William Stainton\\source\\repos\\Test3\\Test3\\Models\\Product.cs",
+              "RelativeToolTip": "Test3\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:57:24.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
